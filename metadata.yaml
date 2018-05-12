@@ -1,0 +1,83 @@
+_repo: Mr.-Britling-Sees-It-Through_14060
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "Mr. Britling Sees It Through is H.G. Wells's \"masterpiece of the wartime\
+  \ experience in England.\" The novel was published in September 1916.\nMr. Britling\
+  \ Sees It Through tells the story of a renowned writer, Mr. Britling, a protagonist\
+  \ who is quite evidently an alter ego of the author. The garrulous, easy-going Mr.\
+  \ Britling lives with family and friends in the fictional village of Matching's\
+  \ Easy, located in the county of Essex, northeast of London. The novel is divided\
+  \ into three parts. Book the First, entitled \"Matching's Easy At Ease,\" is set\
+  \ in June–July 1914 and is at first narrated from the point of view of an American,\
+  \ Mr. Direck, who visits Mr. Britling's establishment in Dower House and falls in\
+  \ love with Cissie, the sister of Mr. Britling's secretary's wife. Also in the company\
+  \ are Mr. Britling's son Hugh and a visiting German student, Herr Heinrich, who\
+  \ is forced to leave when war breaks out. Book the Second, \"Matching's Easy at\
+  \ War,\" covers August 1914 to October 1915, when Mr. Britling's son Hugh is killed\
+  \ at the front. In Book the Third, \"The Testament of Matching's Easy,\" Mr. Britling\
+  \ learns that Herr Heinrich has also been killed, and writes a long letter to the\
+  \ dead German soldier's parents.\nMr. Britling is a complex character whose conflicts\
+  \ are the chief concern of the plot. Mrs. Britling (Edith) runs the household, but\
+  \ she does not engage her husband's affections entirely. On the one hand, he is\
+  \ involved in \"his eighth love affair\" with a Mrs. Harrowdean (though this affair\
+  \ does not survive the beginning of the war). At a deeper level, he feels himself\
+  \ \"profoundly incompatible\" with Edith, his present wife, whom he married after\
+  \ the death of his first wife Mary, with whom he had been \"passionately happy.\"\
+  \ His deep love of the son they had together, Hugh, is inflected by his continued\
+  \ emotional attachment to the memory of his first wife.\nIt is the obliviousness\
+  \ to Prussian militarism (through most of the novel, the First World War is blamed\
+  \ on this), and then the collective resolve of British society to confront it, that\
+  \ are the principal themes of Mr. Britling Sees It Through, but in the final pages\
+  \ the protagonist wins through to a larger, religious interpretation of the tragedy.\
+  \ Much of the first book is devoted to discussions of the character of English society,\
+  \ and much of the second and third to discussions of England's response to the challenge\
+  \ of the war. Mr. Britling is a critical but not radical observer of the national\
+  \ and international scene. He regards British life in general, for example, as an\
+  \ unplanned, organic development, and believes that the British Empire came into\
+  \ existence in a haphazard, unintentional manner.\nMr. Britling Sees It Through\
+  \ is of note for its extended exposition of Wells's non-sectarian religious faith:\
+  \ \"Religion is the first thing and the last thing, and until a man has found God\
+  \ and been found by God, he begins at no beginning, he works to no end. He may have\
+  \ his friendships, his partial loyalties, his scraps of honour. But all these things\
+  \ fall into place and life falls into place only with God. Only with God. God, who\
+  \ fights through men against Blind Force and Night and Non-Existence; who is the\
+  \ end, who is the meaning.\" The novel was used as a text at chaplains' school,\
+  \ and was embraced by military officers and religious leaders.\nMr. Britling Sees\
+  \ It Through was one of the most popular novels in the United Kingdom and Australia\
+  \ during World War I. Wells's American publisher paid ₤20,000 for it. Maxim Gorky\
+  \ called the novel \"the finest, most courageous, truthful, and humane book written\
+  \ in Europe in the course of this accursed war . .  at a time of universal barbarism\
+  \ and cruelty, your book is an important and truly humane work.\"\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf:
+- World War I
+- Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14060'
+  wikidata: Q12062136
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'War stories'
+title: Mr. Britling Sees It Through
+url: http://www.gutenberg.org/ebooks/14060
+wikipedia:
+- https://en.wikipedia.org/wiki/Mr._Britling_Sees_It_Through
+- https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D1%81%D1%82%D0%B5%D1%80_%D0%91%D1%80%D1%96%D1%82%D0%BB%D1%96%D0%BD%D0%B3_%D0%B1%D0%B0%D1%87%D0%B8%D1%82%D1%8C_%D1%87%D0%B5%D1%80%D0%B5%D0%B7
