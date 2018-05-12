@@ -60,6 +60,8 @@ description: "Mr. Britling Sees It Through is H.G. Wells's \"masterpiece of the 
   \ in Europe in the course of this accursed war . .  at a time of universal barbarism\
   \ and cruelty, your book is an important and truly humane work.\"\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14060#Mr.-Britling-Sees-It-Through
 gutenberg_bookshelf:
 - World War I
 - Bestsellers, American, 1895-1923
